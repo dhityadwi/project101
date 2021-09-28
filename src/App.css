@@ -1,0 +1,132 @@
+.App {
+  font-family: "Raleway", sans-serif;
+  box-sizing: border-box;
+}
+
+.head {
+  text-align: center;
+}
+
+img {
+  height: 75;
+  width: 250px;
+}
+
+.create {
+  background-color: orange;
+  height: 50px;
+  padding: 1px;
+  text-align: center;
+}
+
+.radio-buttons input {
+  margin-left: 10px;
+}
+
+.form {
+  padding: 0 40px;
+}
+
+span {
+  color: red;
+}
+
+.name {
+  display: flex;
+}
+
+.lastName {
+  margin-right: 40px;
+}
+
+.name input {
+  width: 597px;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.country {
+  height: 40px;
+}
+
+.mobilePhone input {
+  width: 544px;
+  height: 35px;
+  margin-left: 20px;
+  border-radius: 5px;
+}
+
+.add input {
+  width: 190vh;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.location {
+  margin-right: 50px;
+}
+
+.countries {
+  display: flex;
+}
+
+.countries select {
+  width: 600px;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.contact {
+  display: flex;
+}
+
+.email input {
+  width: 597px;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.contact select {
+  margin-left: 50px;
+  width: 166px;
+  height: 35px;
+  border-radius: 5px;
+}
+
+.title {
+  margin-left: 50px;
+}
+
+.note {
+  padding: 0 40px;
+  margin-top: 150px;
+}
+
+.note p {
+  line-height: 26px;
+  font-size: 20px;
+}
+
+.checkbox-buttons {
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.term {
+  padding: 0 40px;
+  margin-top: 50px;
+  font-size: 20px;
+  display: flex;
+}
+
+.button {
+  display: flex;
+  margin: 20px;
+  padding-left: 150vh;
+}
+.button button {
+  background-color: orange;
+  height: 40px;
+  width: 175px;
+}
